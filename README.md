@@ -14,10 +14,12 @@
 | [0066-plus-one](https://github.com/Sanj-ana12/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sanj-ana12/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanj-ana12/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Sanj-ana12/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sanj-ana12/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Sanj-ana12/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
