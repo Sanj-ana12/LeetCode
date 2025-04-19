@@ -39,6 +39,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sanj-ana12/LeetCode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sanj-ana12/LeetCode/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
