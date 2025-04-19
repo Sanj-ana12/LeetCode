@@ -21,6 +21,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sanj-ana12/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Sanj-ana12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sanj-ana12/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
