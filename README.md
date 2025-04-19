@@ -21,6 +21,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sanj-ana12/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
