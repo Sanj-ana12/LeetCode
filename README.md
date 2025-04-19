@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sanj-ana12/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sanj-ana12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Sanj-ana12/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sanj-ana12/LeetCode/tree/master/0389-find-the-difference) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sanj-ana12/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
