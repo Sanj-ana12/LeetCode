@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanj-ana12/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanj-ana12/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
 ## Tree
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sanj-ana12/LeetCode/tree/master/0118-pascals-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
