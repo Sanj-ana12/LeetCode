@@ -18,5 +18,10 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sanj-ana12/LeetCode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
