@@ -17,6 +17,7 @@
 | [0202-happy-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sanj-ana12/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0118-pascals-triangle](https://github.com/Sanj-ana12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Sanj-ana12/LeetCode/tree/master/0389-find-the-difference) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +108,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sanj-ana12/LeetCode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +121,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanj-ana12/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
