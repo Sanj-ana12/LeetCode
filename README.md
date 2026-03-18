@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sanj-ana12/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sanj-ana12/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sanj-ana12/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sanj-ana12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Sanj-ana12/LeetCode/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sanj-ana12/LeetCode/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanj-ana12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
